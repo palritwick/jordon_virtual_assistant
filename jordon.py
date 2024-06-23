@@ -158,7 +158,7 @@ if __name__ == "__main__":
             chpath = "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
             os.startfile(chpath)
 
-        elif 'open microsft edge' in query:
+        elif 'open microsoft edge' in query:
             msepath = "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
             os.startfile(msepath)
 
